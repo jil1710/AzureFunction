@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WMu+m52CjoqCzKcj4ubm6jt7S7BIGk+BDpPxyOSo2rs=",
+  "Source": "AzureQueue",
+  "BasePath": "_content/AzureQueue",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
