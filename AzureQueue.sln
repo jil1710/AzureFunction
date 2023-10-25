@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductConsumer", "ProductC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailSender", "EmailSender\EmailSender.csproj", "{D1B1DF82-947E-44BE-A9F3-0687FB2CD42A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpFunctionTrigger", "HttpFunctionTrigger\HttpFunctionTrigger.csproj", "{2CF297DD-4664-4E5A-B65E-B00C17244E5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpFunctionTrigger", "HttpFunctionTrigger\HttpFunctionTrigger.csproj", "{2CF297DD-4664-4E5A-B65E-B00C17244E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobTrigger", "BlobTrigger\BlobTrigger.csproj", "{6E83610D-25B1-42B5-BBF9-230C79A03010}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2CF297DD-4664-4E5A-B65E-B00C17244E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CF297DD-4664-4E5A-B65E-B00C17244E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CF297DD-4664-4E5A-B65E-B00C17244E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E83610D-25B1-42B5-BBF9-230C79A03010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E83610D-25B1-42B5-BBF9-230C79A03010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E83610D-25B1-42B5-BBF9-230C79A03010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E83610D-25B1-42B5-BBF9-230C79A03010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
